@@ -1,0 +1,48 @@
+﻿폰트기획서
+
+회사(회사)에 대한 정보
+● 회사명  (주)한양정보통신 
+● 신청 날짜  2017. 11. 03
+● 서체 이름  고딕 A1   
+
+폰트에 대한 정보
+● Masters (thin, regular, black) UltraLight/Thin/Light/Regular/Medium/SemiBold/Bold/ExtraBold
+● Instances (thin, light, regular, bold, black)
+● 총 라틴 글리프의 수 14,000자
+● 총 한글 글리프의 수 11,172자 
+● 가격 (USD)
+● Github URL
+
+정보
+● 디자인에 대한 정보 
+사용자의 편리성과 디자인의 질적 측면을 향상하는데 가치를 두고자 99단계의 폰트제작.
+다양한 두께/최적화된 공간분배/시각보정을 고려한 특수기호.
+사용범위: 출판/웹/편집/IT/미디어
+● 비슷한 디자인들(폰트들) 고딕 B1/ 고딕 C1
+● Github에 대한 경험 있음
+
+
+About You
+● Your name Hanyang Information & Communications Co., Ltd.
+● Proposal Date 2017. 11. 03
+● Type family name Gothic A1
+
+
+About Fonts
+
+1. Masters (thin, regular, black)
+　UltraLight/Thin/Light/Regular/Medium/SemiBold/Bold/ExtraBold
+2. Instances (thin, light, regular, bold, black)
+3. Total Latin glyphs 14,000
+4. Total Korean glyphs 11,172
+5. Price (USD)
+6. Github URL 
+
+Description of
+● The design
+In order to enhance the convenience of users and the quality of design, we create the fonts with 99 steps of weight.
+It has the features such as a various thickness, optimized distribution of the space and special symbols considered optical adjustment.
+Scope of Use: Publishing/Web/Edit/IT/Media
+● Similar designs Gothic B1/ Gothic C1
+● Your experience with Github Yes
+
